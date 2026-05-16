@@ -1,4 +1,5 @@
 # Pedestrian_Safety_System
+라즈베리파이4와 OpenCV 기반의 안전관리 시스템 구현
 
 ## 보행자안전관리시스템 실제 외관
 <img width="4030" height="2526" alt="보행자안전관리_외관" src="https://github.com/user-attachments/assets/766dd0c7-90e3-4313-910b-d340697daf04" />
